@@ -1,6 +1,6 @@
 # co-expression-probability
 
-These MatLab scripts calculate the probability of a given neuron co-expressing two neurotranmsitters. The script calculates co-expression probabilities for a 
+These MatLab scripts calculate the probability of a given neuron co-expressing two neurotransmitters. The script calculates co-expression probabilities for a 
 population of 360 neurons that individually express GABA, Myoinhibitory peptide (MIP), Tachykinin (TKK), FMRFamide.  
 Code can be altered to include the total # of neurons in a given neural population and the avg # (and stdev) of neurons that express each transmitter. 
 The random_probability_script assumes no expression dependencies, and thus the predicitons of co-expression are based purely on chance co-expression based 
